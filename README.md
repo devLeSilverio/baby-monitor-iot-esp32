@@ -44,7 +44,9 @@ O projeto utiliza comunicação Wi-Fi com o ESP32, realizando requisições HTTP
 
 <img width="955" height="866" alt="image" src="https://github.com/user-attachments/assets/b91fa6b4-e08b-4c30-a533-67b560daead4" />
 
+<br>
+<br>
+<br>
 
-## 📎 Código-Fonte
-O código completo está disponível na pasta `/src`.
+<img height="446" alt="image" src="https://github.com/user-attachments/assets/07f7e633-a562-4bbb-a859-e222fc31fe58" />
 
