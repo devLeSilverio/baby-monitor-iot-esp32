@@ -1,4 +1,4 @@
-# BabyMonitor IoT – ESP32 Cry Alert  
+# BabyMonitor IoT – ESP32
 Monitor de choro com ESP32, LED, buzzer e notificações via Telegram.
 
 ## 👥 Integrantes do Grupo
